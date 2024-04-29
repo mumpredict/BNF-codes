@@ -1,0 +1,91 @@
+prodcode,dmdcode,gemscriptcode,therapyevents,productname,ingredient,strength,formulation,routeofadministration,bnftext,v12,v13,v14,v15,v16,v17,v18,v19,v20,v21,slashcountinchapter,bnfchapter
+33827,414125008,89772020,30,Erlotinib 150mg tablets,Erlotinib hydrochloride,150mg,Tablet,Oral,Other Antineoplastic Drugs/Protein Kinase Inhibitors,February 2009,13473001,,,,,,,,,1,8010551
+72191,1.74620110000e+16,98712020,0,Votrient 400mg tablets (Novartis Pharmaceuticals UK Ltd),Pazopanib hydrochloride,400mg,Tablet,Oral,Protein Kinase Inhibitors,May 2018,17993001,,,,,,,,,0,8010551
+64388,2.87902110000e+16,46571021,13,Nintedanib 100mg capsules,Nintedanib esilate,100mg,Capsule,Oral,Antifibrotics/Protein Kinase Inhibitors,October 2015,46571021,,,,,,,,,1,8010551
+59434,2.12907110000e+16,45351020,8,Ruxolitinib 15mg tablets,Ruxolitinib phosphate,15mg,Tablet,Oral,Protein Kinase Inhibitors,April 2014,45351020,,,,,,,,,0,8010551
+46837,426269005,95288020,1,Lapatinib 250mg tablets,Lapatinib ditosylate monohydrate,250mg,Tablet,Oral,Protein Kinase Inhibitors,February 2012,16255001,,,,,,,,,0,8010551
+75226,703588006,17305021,2,Bosutinib 500mg tablets,Bosutinib,500mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,March 2019,17305021,,,,,,,,,1,8010551
+37238,424058002,92344020,8,Dasatinib 20mg tablets,Dasatinib monohydrate,20mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,14769001,,,,,,,,,0,8010551
+80293,2.12745110000e+16,45354020,1,Jakavi 20mg tablets (Novartis Pharmaceuticals UK Ltd),Ruxolitinib phosphate,20mg,Tablet,Oral,Protein Kinase Inhibitors,March 2020,45354020,,,,,,,,,0,8010551
+38871,420897004,91201020,22,Sunitinib 12.5mg capsules,Sunitinib malate,12.5mg,Capsule,Oral,Protein Kinase Inhibitors,February 2009,14193001,,,,,,,,,0,8010551
+74448,2.80123110000e+16,43043021,1,Cabozantinib 20mg capsules,Cabozantinib s-malate,20mg,Capsule,Oral,Protein Kinase Inhibitors,January 2019,43043021,,,,,,,,,0,8010551
+57172,2.03634110000e+16,41284020,2,Vandetanib 100mg tablets,Vandetanib,100mg,Tablet,Oral,Protein Kinase Inhibitors,September 2013,41284020,,,,,,,,,0,8010551
+58932,2.01140110000e+16,40233020,3,Vemurafenib 240mg tablets,Vemurafenib,240mg,Tablet,Oral,Protein Kinase Inhibitors,February 2014,40233020,,,,,,,,,0,8010551
+67842,2.98890110000e+16,53088021,2,Lenvatinib 4mg capsules,Lenvatinib mesilate,4mg,Capsule,Oral,Protein Kinase Inhibitors,October 2016,53088021,,,,,,,,,0,8010551
+21318,410950003,87708020,331,Imatinib 400mg tablets,Imatinib mesilate,400mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,12428001,,,,,,,,,0,8010551
+77864,3.37342110000e+16,73540021,2,Palbociclib 125mg capsules,Palbociclib,125mg,Capsule,Oral,Protein Kinase Inhibitors,August 2019,73540021,,,,,,,,,0,8010551
+45820,1.84682110000e+16,99368020,10,Nilotinib 150mg capsules,Nilotinib hydrochloride monohydrate,150mg,Capsule,Oral,Protein Kinase Inhibitors,August 2011,18333001,,,,,,,,,0,8010551
+68132,2.15103110000e+16,46213020,2,Axitinib 5mg tablets,Axitinib,5mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,November 2016,46213020,,,,,,,,,1,8010551
+25262,9565011000001102,89775020,22,Tarceva 150mg tablets (Roche Products Ltd),Erlotinib hydrochloride,150mg,Tablet,Oral,Other Antineoplastic Drugs/Protein Kinase Inhibitors,February 2009,13475001,,,,,,,,,1,8010551
+61854,703581000,20110021,1,Afatinib 20mg tablets,Afatinib dimaleate,20mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,December 2014,20110021,,,,,,,,,1,8010551
+44063,420637003,91203020,2,Sunitinib 25mg capsules,Sunitinib malate,25mg,Capsule,Oral,Protein Kinase Inhibitors,December 2010,14194001,,,,,,,,,0,8010551
+75883,3.36923110000e+16,73543021,1,Ibrance 75mg capsules (Pfizer Ltd),Palbociclib,75mg,Capsule,Oral,Protein Kinase Inhibitors,April 2019,73543021,,,,,,,,,0,8010551
+68805,2.87903110000e+16,46573021,10,Nintedanib 150mg capsules,Nintedanib esilate,150mg,Capsule,Oral,Antifibrotics/Protein Kinase Inhibitors,February 2017,46573021,,,,,,,,,1,8010551
+64275,703780001,45355020,19,Ruxolitinib 5mg tablets,Ruxolitinib phosphate,5mg,Tablet,Oral,Protein Kinase Inhibitors,September 2015,45355020,,,,,,,,,0,8010551
+80764,3.69448110000e+16,86731021,1,Ibrance 125mg capsules (Originalis B.V.),Palbociclib,125mg,Capsule,Oral,Protein Kinase Inhibitors,May 2020,86731021,,,,,,,,,0,8010551
+74634,703809005,20068021,2,Regorafenib 40mg tablets,Regorafenib,40mg,Tablet,Oral,Protein Kinase Inhibitors,February 2019,20068021,,,,,,,,,0,8010551
+40580,421398007,91205020,17,Sunitinib 50mg capsules,Sunitinib malate,50mg,Capsule,Oral,Protein Kinase Inhibitors,October 2009,14195001,,,,,,,,,0,8010551
+21286,407797002,78254020,45,Imatinib 100mg capsules,Imatinib mesilate,100mg,Capsule,Oral,Protein Kinase Inhibitors,February 2009,8152001,,,,,,,,,0,8010551
+72063,2.59645110000e+16,29621021,3,Trametinib 2mg tablets,Trametinib,2mg,Tablet,Oral,Protein Kinase Inhibitors,April 2018,29621021,,,,,,,,,0,8010551
+65280,1.84704110000e+16,99986020,3,Dasatinib 80mg tablets,Dasatinib monohydrate,80mg,Tablet,Oral,Protein Kinase Inhibitors,January 2016,18649001,,,,,,,,,0,8010551
+69604,3.27042110000e+16,68997021,3,Osimertinib 40mg tablets,Osimertinib mesylate,40mg,Tablet,Oral,Protein Kinase Inhibitors,May 2017,68997021,,,,,,,,,0,8010551
+46823,443997005,98708020,12,Pazopanib 400mg tablets,Pazopanib hydrochloride,400mg,Tablet,Oral,Protein Kinase Inhibitors,February 2012,17991001,,,,,,,,,0,8010551
+33823,8089611000001108,88280020,38,Glivec 100mg tablets (Novartis Pharmaceuticals UK Ltd),Imatinib mesilate,100mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,12715001,,,,,,,,,0,8010551
+74514,703648007,17763021,1,Dabrafenib 75mg capsules,Dabrafenib mesilate,75mg,Capsule,Oral,Protein Kinase Inhibitors,January 2019,17763021,,,,,,,,,0,8010551
+63638,2.41042110000e+16,23578021,1,Afinitor 2.5mg tablets (Novartis Pharmaceuticals UK Ltd),Everolimus,2.5mg,Tablet,Oral,Protein Kinase Inhibitors,July 2015,23578021,,,,,,,,,0,8010551
+36062,424254006,92351020,15,Dasatinib 50mg tablets,Dasatinib monohydrate,50mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,14773001,,,,,,,,,0,8010551
+80811,3.74935110000e+16,89110021,1,Ibrutinib 280mg tablets,Ibrutinib,280mg,Tablet,Oral,Protein Kinase Inhibitors,May 2020,89110021,,,,,,,,,0,8010551
+58758,703639002,46649020,4,Crizotinib 200mg capsules,Crizotinib,200mg,Capsule,Oral,Protein Kinase Inhibitors,February 2014,46649020,,,,,,,,,0,8010551
+40094,414124007,89768020,9,Erlotinib 100mg tablets,Erlotinib hydrochloride,100mg,Tablet,Oral,Other Antineoplastic Drugs/Protein Kinase Inhibitors,August 2009,13471001,,,,,,,,,1,8010551
+45450,1.08168110000e+16,91211020,1,Sutent 50mg capsules (Pfizer Ltd),Sunitinib malate,50mg,Capsule,Oral,Protein Kinase Inhibitors,June 2011,14198001,,,,,,,,,0,8010551
+60008,2.12908110000e+16,45353020,13,Ruxolitinib 20mg tablets,Ruxolitinib phosphate,20mg,Tablet,Oral,Protein Kinase Inhibitors,May 2014,45353020,,,,,,,,,0,8010551
+37441,1.15564110000e+16,93804020,12,Tarceva 25mg tablets (Roche Products Ltd),Erlotinib hydrochloride,25mg,Tablet,Oral,Other Antineoplastic Drugs/Protein Kinase Inhibitors,February 2009,15505001,,,,,,,,,1,8010551
+58025,2.15102110000e+16,46211020,3,Axitinib 1mg tablets,Axitinib,1mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,December 2013,46211020,,,,,,,,,1,8010551
+42362,1.06851110000e+16,91175020,3,Nexavar 200mg tablets (Bayer Plc),Sorafenib tosylate,200mg,Tablet,Oral,Protein Kinase Inhibitors,May 2010,14180001,,,,,,,,,0,8010551
+46563,1.59785110000e+16,97385020,3,Iressa 250mg tablets (AstraZeneca UK Ltd),Gefitinib,250mg,Tablet,Oral/Gastroenteral,Protein Kinase Inhibitors,December 2011,17321001,,,,,,,,,0,8010551
+67591,3.10885110000e+16,60915021,1,Trametinib 500micrograms tablets,Trametinib,500microgram,Tablet,Oral,Protein Kinase Inhibitors,September 2016,60915021,,,,,,,,,0,8010551
+55683,441953000,97517020,3,Everolimus 10mg tablets,Everolimus,10mg,Tablet,Oral,Protein Kinase Inhibitors,June 2013,17389001,,,,,,,,,0,8010551
+56652,1.74623110000e+16,98710020,2,Votrient 200mg tablets (Novartis Pharmaceuticals UK Ltd),Pazopanib hydrochloride,200mg,Tablet,Oral,Protein Kinase Inhibitors,August 2013,17992001,,,,,,,,,0,8010551
+28800,7319811000001103,87710020,78,Glivec 400mg tablets (Novartis Pharmaceuticals UK Ltd),Imatinib mesilate,400mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,12429001,,,,,,,,,0,8010551
+63202,2.30708110000e+16,17764021,0,Tafinlar 75mg capsules (Novartis Pharmaceuticals UK Ltd),Dabrafenib mesilate,75mg,Capsule,Oral,Protein Kinase Inhibitors,May 2015,17764021,,,,,,,,,0,8010551
+39795,1.08174110000e+16,91207020,5,Sutent 12.5mg capsules (Pfizer Ltd),Sunitinib malate,12.5mg,Capsule,Oral,Protein Kinase Inhibitors,July 2009,14196001,,,,,,,,,0,8010551
+47556,9564711000001104,89770020,6,Tarceva 100mg tablets (Roche Products Ltd),Erlotinib hydrochloride,100mg,Tablet,Oral,Other Antineoplastic Drugs/Protein Kinase Inhibitors,August 2012,13472001,,,,,,,,,1,8010551
+43781,1.60561110000e+16,97521020,2,Afinitor 10mg tablets (Novartis Pharmaceuticals UK Ltd),Everolimus,10mg,Tablet,Oral,Protein Kinase Inhibitors,October 2010,17391001,,,,,,,,,0,8010551
+42993,1.08171110000e+16,91209020,1,Sutent 25mg capsules (Pfizer Ltd),Sunitinib malate,25mg,Capsule,Oral,Protein Kinase Inhibitors,July 2010,14197001,,,,,,,,,0,8010551
+69900,2.30705110000e+16,17762021,2,Tafinlar 50mg capsules (Novartis Pharmaceuticals UK Ltd),Dabrafenib mesilate,50mg,Capsule,Oral,Protein Kinase Inhibitors,July 2017,17762021,,,,,,,,,0,8010551
+72404,703583002,20112021,5,Afatinib 30mg tablets,Afatinib dimaleate,30mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,June 2018,20112021,,,,,,,,,1,8010551
+41077,407101003,97383020,13,Gefitinib 250mg tablets,Gefitinib,250mg,Tablet,Oral/Gastroenteral,Protein Kinase Inhibitors,January 2010,17320001,,,,,,,,,0,8010551
+46070,441726005,97515020,3,Everolimus 5mg tablets,Everolimus,5mg,Tablet,Oral,Protein Kinase Inhibitors,September 2011,17388001,,,,,,,,,0,8010551
+62572,2.45091110000e+16,26422021,2,Axitinib 7mg tablets,Axitinib,7mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,March 2015,26422021,,,,,,,,,1,8010551
+73683,3.36310110000e+16,71412021,1,Cabozantinib 40mg tablets,Cabozantinib s-malate,40mg,Tablet,Oral,Protein Kinase Inhibitors,November 2018,71412021,,,,,,,,,0,8010551
+71723,2.82824110000e+16,44217021,4,Imbruvica 140mg capsules (Janssen-Cilag Ltd),Ibrutinib,140mg,Capsule,Oral,Protein Kinase Inhibitors,April 2018,44217021,,,,,,,,,0,8010551
+21295,4332011000001100,78245020,15,Glivec 100mg capsules (Novartis Pharmaceuticals UK Ltd),Imatinib mesilate,100mg,Capsule,Oral,Protein Kinase Inhibitors,February 2009,8149001,,,,,,,,,0,8010551
+72763,703584008,20114021,1,Afatinib 40mg tablets,Afatinib dimaleate,40mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,August 2018,20114021,,,,,,,,,1,8010551
+69830,703587001,17303021,0,Bosutinib 100mg tablets,Bosutinib,100mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,July 2017,17303021,,,,,,,,,1,8010551
+65183,2.83950110000e+16,44216021,17,Ibrutinib 140mg capsules,Ibrutinib,140mg,Capsule,Oral,Protein Kinase Inhibitors,January 2016,44216021,,,,,,,,,0,8010551
+47552,443785004,98706020,27,Pazopanib 200mg tablets,Pazopanib hydrochloride,200mg,Tablet,Oral,Protein Kinase Inhibitors,August 2012,17990001,,,,,,,,,0,8010551
+76563,414462000,73900021,5,Imatinib 400mg capsules,Imatinib mesilate,400mg,Capsule,Oral,Protein Kinase Inhibitors,June 2019,73900021,,,,,,,,,0,8010551
+80287,3.78676110000e+16,90562021,1,Neratinib 40mg tablets,Neratinib maleate,40mg,Tablet,Oral,Protein Kinase Inhibitors,March 2020,90562021,,,,,,,,,0,8010551
+77960,703800009,20730021,2,Ponatinib 45mg tablets,Ponatinib hydrochloride,45mg,Tablet,Oral,Protein Kinase Inhibitors,September 2019,20730021,,,,,,,,,0,8010551
+73218,2.80124110000e+16,43045021,1,Cabozantinib 20mg capsules and Cabozantinib 80mg capsules,,,Not applicable,Route of administration not applicable,Protein Kinase Inhibitors,September 2018,43045021,,,,,,,,,0,8010551
+40453,1.46029110000e+16,96010020,3,Torisel 30mg/1.2ml concentrate for solution for infusion vials and diluent (Pfizer Ltd),Temsirolimus,25mg/1ml,Solution for infusion,Intravenous,Protein Kinase Inhibitors,September 2009,16618001,,,,,,,,,0,8010551
+45992,414126009,92599020,4,Erlotinib 25mg tablets,Erlotinib hydrochloride,25mg,Tablet,Oral,Other Antineoplastic Drugs/Protein Kinase Inhibitors,August 2011,14898001,,,,,,,,,1,8010551
+80610,3.65950110000e+16,85404021,0,Brigatinib 30mg tablets,Brigatinib,30mg,Tablet,Oral,Cytotoxic Drugs/Protein Kinase Inhibitors,April 2020,85404021,,,,,,,,,1,8010551
+38317,427962003,95081020,35,Nilotinib 200mg capsules,Nilotinib hydrochloride monohydrate,200mg,Capsule,Oral,Protein Kinase Inhibitors,February 2009,16151001,,,,,,,,,0,8010551
+35685,420994005,91173020,20,Sorafenib 200mg tablets,Sorafenib tosylate,200mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,14179001,,,,,,,,,0,8010551
+36957,425166003,92353020,9,Dasatinib 70mg tablets,Dasatinib monohydrate,70mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,14774001,,,,,,,,,0,8010551
+78101,1.97440110000e+16,435021,2,Everolimus 2.5mg tablets,Everolimus,2.5mg,Tablet,Oral,Protein Kinase Inhibitors,October 2019,18880001,,,,,,,,,0,8010551
+69014,703781002,49124021,11,Ruxolitinib 10mg tablets,Ruxolitinib phosphate,10mg,Tablet,Oral,Protein Kinase Inhibitors,March 2017,49124021,,,,,,,,,0,8010551
+78899,2.38592110000e+16,21578021,1,Giotrif 40mg tablets (Boehringer Ingelheim Ltd),Afatinib dimaleate,40mg,Tablet,Oral,Protein Kinase Inhibitors,November 2019,21578021,,,,,,,,,0,8010551
+80457,1.54064110000e+16,96544020,1,Sprycel 100mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Dasatinib monohydrate,100mg,Tablet,Oral,Protein Kinase Inhibitors,April 2020,16889001,,,,,,,,,0,8010551
+79142,3.48141110000e+16,78628021,1,Ribociclib 200mg tablets,Ribociclib succinate,200mg,Tablet,Oral,Protein Kinase Inhibitors,December 2019,78628021,,,,,,,,,0,8010551
+71770,3.37343110000e+16,73542021,4,Palbociclib 75mg capsules,Palbociclib,75mg,Capsule,Oral,Protein Kinase Inhibitors,April 2018,73542021,,,,,,,,,0,8010551
+73079,3.07588110000e+16,60111021,1,Ceritinib 150mg capsules,Ceritinib,150mg,Capsule,Oral,Protein Kinase Inhibitors,September 2018,60111021,,,,,,,,,0,8010551
+75089,3.27043110000e+16,68999021,1,Osimertinib 80mg tablets,Osimertinib mesylate,80mg,Tablet,Oral,Protein Kinase Inhibitors,February 2019,68999021,,,,,,,,,0,8010551
+76813,3.37341110000e+16,73538021,1,Palbociclib 100mg capsules,Palbociclib,100mg,Capsule,Oral,Protein Kinase Inhibitors,July 2019,73538021,,,,,,,,,0,8010551
+42390,1.54104110000e+16,96542020,42,Dasatinib 100mg tablets,Dasatinib monohydrate,100mg,Tablet,Oral,Protein Kinase Inhibitors,May 2010,16888001,,,,,,,,,0,8010551
+65784,703647002,17761021,9,Dabrafenib 50mg capsules,Dabrafenib mesilate,50mg,Capsule,Oral,Protein Kinase Inhibitors,March 2016,17761021,,,,,,,,,0,8010551
+74999,3.42354110000e+16,75790021,1,Alectinib 150mg capsules,Alectinib hydrochloride,150mg,Capsule,Oral,Protein Kinase Inhibitors,February 2019,75790021,,,,,,,,,0,8010551
+67636,2.12750110000e+16,45356020,2,Jakavi 5mg tablets (Novartis Pharmaceuticals UK Ltd),Ruxolitinib phosphate,5mg,Tablet,Oral,Protein Kinase Inhibitors,September 2016,45356020,,,,,,,,,0,8010551
+75659,3.53852110000e+16,80750021,1,Midostaurin 25mg capsules,Midostaurin,25mg,Capsule,Oral,Protein Kinase Inhibitors,April 2019,80750021,,,,,,,,,0,8010551
+29229,414461007,88278020,115,Imatinib 100mg tablets,Imatinib mesilate,100mg,Tablet,Oral,Protein Kinase Inhibitors,February 2009,12714001,,,,,,,,,0,8010551
